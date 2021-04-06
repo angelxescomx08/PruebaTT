@@ -7,6 +7,8 @@ export default function App() {
       <h2>Start editing to see some magic happen!</h2>
       <h2>Si te escuchamos bro</h2>
       <h2>Jelow</h2>
+      <h2>prueba</h2>
+      <h2>Alcantara</h2>
     </div>
   );
 }
